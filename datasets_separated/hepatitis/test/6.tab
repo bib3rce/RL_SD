@@ -1,0 +1,18 @@
+'AGE'	'SEX'	'STEROID'	'ANTIVIRALS'	'FATIGUE'	'MALAISE'	'ANOREXIA'	'LIVER_BIG'	'LIVER_FIRM'	'SPLEEN_PALPABLE'	'SPIDERS'	'ASCITES'	'VARICES'	'BILIRUBIN'	'ALK_PHOSPHATE'	'SGOT'	'ALBUMIN'	'PROTIME'	'HISTOLOGY'	'Class'
+continuous	discrete	discrete	discrete	discrete	discrete	discrete	discrete	discrete	discrete	discrete	discrete	discrete	continuous	continuous	continuous	continuous	continuous	discrete	discrete
+																			class
+50	1	1	2	1	2	2	1	2	2	2	2	2	0.9	135	42	3.5	?	1	'LIVE'
+78	1	2	2	1	2	2	2	2	2	2	2	2	0.7	96	32	4.0	?	1	'LIVE'
+39	1	1	1	2	2	2	1	1	2	2	2	2	1.3	78	30	4.4	85	1	'LIVE'
+38	1	2	1	1	1	1	2	2	2	1	2	2	0.7	125	65	4.2	77	1	'LIVE'
+27	1	2	2	2	2	2	2	2	2	2	2	2	0.8	?	38	4.2	?	1	'LIVE'
+39	1	2	2	1	2	2	2	2	2	2	2	2	1.0	34	15	4.0	54	1	'LIVE'
+34	1	1	2	1	2	2	1	1	2	1	2	2	1.0	72	46	4.4	57	1	'LIVE'
+28	1	2	2	2	2	2	2	2	2	2	2	2	0.7	85	31	4.9	?	1	'LIVE'
+44	1	1	2	1	1	2	2	2	1	2	2	1	0.9	135	55	?	41	2	'DIE'
+60	1	1	2	1	2	2	1	1	1	1	2	2	?	?	40	?	?	2	'LIVE'
+51	1	1	2	1	1	1	2	1	1	1	2	1	4.6	215	269	3.9	51	2	'LIVE'
+47	1	2	2	1	1	2	2	1	2	2	1	1	1.7	86	20	2.1	46	2	'DIE'
+25	1	2	2	2	2	2	2	2	2	2	2	2	0.6	?	34	6.4	?	2	'LIVE'
+50	1	2	2	1	2	2	2	1	1	2	1	1	2.8	155	75	2.4	32	2	'DIE'
+61	1	1	2	1	1	2	1	1	2	1	2	2	0.8	75	20	4.1	?	2	'LIVE'

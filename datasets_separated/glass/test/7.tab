@@ -1,0 +1,24 @@
+'RI'	'Na'	'Mg'	'Al'	'Si'	'K'	'Ca'	'Ba'	'Fe'	'Type'
+continuous	continuous	continuous	continuous	continuous	continuous	continuous	continuous	continuous	discrete
+									class
+1.51793	13.21	3.48	1.41	72.64	0.59	8.43	0.00	0.00	'build wind float'
+1.51837	13.14	2.84	1.28	72.85	0.55	9.07	0.00	0.00	'build wind float'
+1.51789	13.19	3.90	1.30	72.33	0.55	8.44	0.00	0.28	'build wind non-float'
+1.52223	13.21	3.77	0.79	71.99	0.13	10.02	0.00	0.00	'build wind float'
+1.51674	12.87	3.56	1.64	73.14	0.65	7.99	0.00	0.00	'build wind non-float'
+1.51832	13.33	3.34	1.54	72.14	0.56	8.99	0.00	0.00	'vehic wind float'
+1.51755	13.00	3.60	1.36	72.99	0.57	8.40	0.00	0.11	'build wind float'
+1.51743	13.30	3.60	1.14	73.09	0.58	8.17	0.00	0.00	'build wind float'
+1.51640	14.37	0.00	2.74	72.85	0.00	9.45	0.54	0.00	headlamps
+1.51556	13.87	0.00	2.54	73.23	0.14	9.41	0.81	0.01	headlamps
+1.51829	13.24	3.90	1.41	72.33	0.55	8.31	0.00	0.10	'build wind non-float'
+1.52127	14.32	3.90	0.83	71.50	0.00	9.49	0.00	0.00	'vehic wind float'
+1.51514	14.85	0.00	2.42	73.72	0.00	8.39	0.56	0.00	headlamps
+1.51820	12.62	2.76	0.83	73.81	0.35	9.42	0.00	0.20	'build wind non-float'
+1.51818	13.72	0.00	0.56	74.45	0.00	10.99	0.00	0.00	'build wind non-float'
+1.51748	12.86	3.56	1.27	73.21	0.54	8.38	0.00	0.17	'build wind float'
+1.51666	12.86	0.00	1.83	73.88	0.97	10.17	0.00	0.00	containers
+1.52222	14.43	0.00	1.00	72.67	0.10	11.52	0.00	0.08	'build wind non-float'
+1.51905	14.00	2.39	1.56	72.37	0.00	9.57	0.00	0.00	tableware
+1.51690	13.33	3.54	1.61	72.54	0.68	8.11	0.00	0.00	'build wind non-float'
+1.51618	13.53	3.55	1.54	72.99	0.39	7.78	0.00	0.00	'build wind float'

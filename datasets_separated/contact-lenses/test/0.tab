@@ -1,0 +1,6 @@
+age	prescription	astigmatism	tear-rate	contact-lenses
+discrete	discrete	discrete	discrete	discrete
+				class
+pre-presbyopic	myope	no	normal	soft
+presbyopic	hypermetrope	no	reduced	none
+presbyopic	hypermetrope	yes	reduced	none

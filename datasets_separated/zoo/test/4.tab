@@ -1,0 +1,13 @@
+animal	hair	feathers	eggs	milk	airborne	aquatic	predator	toothed	backbone	breathes	venomous	fins	legs	tail	domestic	catsize	type
+discrete	discrete	discrete	discrete	discrete	discrete	discrete	discrete	discrete	discrete	discrete	discrete	discrete	continuous	discrete	discrete	discrete	discrete
+																	class
+antelope	true	false	false	true	false	false	false	true	true	true	false	false	4	true	false	true	mammal
+boar	true	false	false	true	false	false	true	true	true	true	false	false	4	true	false	true	mammal
+dove	false	true	true	false	true	false	false	false	true	true	false	false	2	true	true	false	bird
+flamingo	false	true	true	false	true	false	false	false	true	true	false	false	2	true	false	true	bird
+housefly	true	false	true	false	true	false	false	false	false	true	false	false	6	false	false	false	insect
+mink	true	false	false	true	false	true	true	true	true	true	false	false	4	true	false	true	mammal
+octopus	false	false	true	false	false	true	true	false	false	false	false	false	8	false	false	true	invertebrate
+piranha	false	false	true	false	false	true	true	true	true	false	false	true	0	true	false	false	fish
+pony	true	false	false	true	false	false	false	true	true	true	false	false	4	true	true	true	mammal
+stingray	false	false	true	false	false	true	true	true	true	false	true	true	0	true	false	true	fish

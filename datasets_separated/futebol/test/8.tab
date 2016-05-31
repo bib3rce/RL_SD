@@ -1,0 +1,4 @@
+outlook	temperature	humidity	outofstate	wins
+discrete	discrete	discrete	discrete	discrete
+				class
+sunny	75	70	TRUE	yes
