@@ -1,9 +1,0 @@
-'duration'	'wage-increase-first-year'	'wage-increase-second-year'	'wage-increase-third-year'	'cost-of-living-adjustment'	'working-hours'	'pension'	'standby-pay'	'shift-differential'	'education-allowance'	'statutory-holidays'	'vacation'	'longterm-disability-assistance'	'contribution-to-dental-plan'	'bereavement-assistance'	'contribution-to-health-plan'	'class'
-continuous	continuous	continuous	continuous	discrete	continuous	discrete	continuous	continuous	discrete	continuous	discrete	discrete	discrete	discrete	discrete	discrete
-																class
-3	3.5	4.0	4.6	'none'	36	?	?	3	?	13	'generous'	?	?	'yes'	'full'	'good'
-1	6.0	?	?	?	38	?	8	3	?	9	'generous'	?	?	?	?	'good'
-2	5.0	4.0	?	'none'	37	?	?	5	'no'	11	'below_average'	'yes'	'full'	'yes'	'full'	'good'
-2	2.5	2.5	?	?	38	'empl_contr'	?	?	?	10	'average'	?	?	?	?	'bad'
-3	2.0	2.5	2.1	'tc'	40	'none'	2	1	'no'	10	'below_average'	'no'	'half'	'yes'	'full'	'bad'
-2	4.6	4.6	?	'tcf'	38	?	?	?	?	?	?	'yes'	'half'	?	'half'	'good'
